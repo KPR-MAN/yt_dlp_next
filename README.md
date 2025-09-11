@@ -18,10 +18,9 @@ I built it to make downloading videos and audio easier, without needing to type 
 - 🖤 Minimal, modern, and user-friendly design  
 
 ## 🚀 Getting Started  
-1. Install ffmpeg (If using the executeable without installing python).  
-2. Download the latest release of YT DLP Next and Extract it.  
-3. Run the executable `YT DLP Next.exe`  (or `python main.py` if using the source).  
-4. Paste your video/playlist/channel URL and hit **Download**.  
+1. Download the latest release of YT DLP Next and Extract it.  
+2. Run the executable `YT DLP Next.exe`  (or `python main.py` if using the source).  
+3. Paste your video/playlist/channel URL and hit **Download**.  
 
 ## 📷 Screenshots  
 ![YT DLP Next Screenshot](screenshot.png)
