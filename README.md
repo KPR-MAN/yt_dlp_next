@@ -1,3 +1,6 @@
+<!-- MANPAGE: BEGIN EXCLUDED SECTION -->
+<div align="center">
+
 ![YT DLP Next Icon](icon.png)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
