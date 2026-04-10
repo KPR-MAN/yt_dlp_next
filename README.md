@@ -13,17 +13,17 @@ YT DLP Next is a **modern, clean, and lightweight graphical user interface (GUI)
 I built it to make downloading videos and audio easier, without needing to type complex command-line options.  
 
 ## ✨ Features  
-- 🎥 Download **video** or **audio** with a single click  
-- 🎚 Select **quality** and **format** (mp4, mp3, etc.)  
-- 🌍 Subtitle support with language selection  
-- 🖼 Optional download of thumbnails and metadata  
-- 📂 Clean file naming and customizable output folder  
-- 🖤 Minimal, modern, and user-friendly design  
+🎥 Download **video** or **audio** with a single click  
+🎚 Select **quality** and **format** (mp4, mp3, etc.)  
+🌍 Subtitle support with language selection  
+🖼 Optional download of thumbnails and metadata  
+📂 Clean file naming and customizable output folder  
+🖤 Minimal, modern, and user-friendly design  
 
 ## 🚀 Getting Started  
-1. Download the latest release of YT DLP Next and Extract it.  
-2. Run the executable `YT DLP Next.exe`  (or `python main.py` if using the source).  
-3. Paste your video/playlist/channel URL and hit **Download**.  
+Download the latest release of YT DLP Next and Extract it.  
+Run the executable `YT DLP Next.exe`  (or `python main.py` if using the source).  
+Paste your video/playlist/channel URL and hit **Download**.  
 
 ## 📷 Screenshots  
 ![YT DLP Next Screenshot](screenshot.png)
@@ -36,9 +36,9 @@ Please use this software **responsibly** and only download content you have the 
 I do not endorse or encourage the unauthorized downloading of copyrighted material.  
 
 ## 📜 License  
-- YT DLP Next is licensed under **MIT License** 
-- yt-dlp is licensed separately under the [Unlicense](https://github.com/yt-dlp/yt-dlp#license).  
+YT DLP Next is licensed under **MIT License** 
+yt-dlp is licensed separately under the [Unlicense](https://github.com/yt-dlp/yt-dlp#license).  
 
 ## 🙏 Credits  
-- Built with ❤️ by me, in Python.  
-- Powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp).  
+Built with ❤️ by me, in Python.  
+Powered by [yt-dlp](https://github.com/yt-dlp/yt-dlp).  
